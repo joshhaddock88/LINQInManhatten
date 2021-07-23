@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQInManhatten", "LINQInManhatten\LINQInManhatten.csproj", "{39F246C7-A56A-40E5-89C2-AA72DB20BAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F246C7-A56A-40E5-89C2-AA72DB20BAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F246C7-A56A-40E5-89C2-AA72DB20BAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F246C7-A56A-40E5-89C2-AA72DB20BAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F246C7-A56A-40E5-89C2-AA72DB20BAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD7D7839-077D-493F-B65F-085453EF231A}
+	EndGlobalSection
+EndGlobal
