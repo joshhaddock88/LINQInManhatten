@@ -18,7 +18,7 @@
 
 ## General Information
 
-* This is a console application capable of reading data from a json file.
+* This is a console application capable of reading data from a json file. We deserialize the json data and filter the output through a sequence of LINQ queries.
 
 ## Technologies Used
 
@@ -27,7 +27,7 @@
 
 ## Features
 
-Not many.
+Using LINQ Query, we are able to extract the information from the JSON file into text. We are then able to filter out any blank information, and further filter out repeat information.
 
 <!-- ## Screenshots -->
 
@@ -37,29 +37,15 @@ Clone the repo to your machine.
 
 ## Project Status
 
-Incomplete
+Complete.
 
 ## Room for Improvement
-
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-
-* Improvement to be done 1
-* Improvement to be done 2
-
-To do:
-
-* Feature to be added 1
-* Feature to be added 2
 
 ## Acknowledgements
 
 Give credit here.
 
-* This project was inspired by...
-* This project was based on [this tutorial](https://www.example.com).
-* Many thanks to...
+* This project was done for Code Fellows ASP.Net. The finished product is largely gleaned from the solution put together by John Cokos.
 
 ## Contact
 
